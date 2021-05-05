@@ -20,6 +20,6 @@ submitButton.addEventListener('click', function(e){
 	console.log('Email: ',emailValue);
 	console.log('Message: ',messageValue);
 })
-// attaching click listeners - how mani times users clicked on submit button
+// attaching click listeners - how many times users clicked on submit button
 // getting user entered values, data from users - emails
 // javascript validations - tell users if somehtign is worng (think as a validation pop up)
