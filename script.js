@@ -22,4 +22,4 @@ submitButton.addEventListener('click', function(e){
 })
 // attaching click listeners - how many times users clicked on submit button
 // getting user entered values, data from users - emails
-// javascript validations - tell users if somehtign is worng (think as a validation pop up)
+// javascript validations - tell users if something is worng (think as a validation pop up)
